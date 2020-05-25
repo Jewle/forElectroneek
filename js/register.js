@@ -7,6 +7,6 @@ const unsortedArray =[1,4,3,20,15,7,11]
 
 //Flag
 
-createFlag()
+//createFlag()
 //Form
 // activateModal()
