@@ -1,10 +1,11 @@
+//Инициализация флага
 const createFlag =()=>{
     const flagContainer = document.querySelector('.flag')
     flagContainer.append(createBody())
 
 }
 
-
+//Создание тела флага
 const createBody = ()=>{
    const Body = document.createElement('div')
     Body.classList.add('body-section')
